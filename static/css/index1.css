@@ -94,6 +94,9 @@ header .top{
     justify-content: space-between;
     box-sizing: border-box;
 }
+.conBox{
+    margin: auto;
+}
 header .top .con{
     width: auto;
     height: 0.16rem;
