@@ -143,6 +143,10 @@ header .top .con input{
 }
 
 /*轮播图开始*/
+.imgsBox{
+    width: 3.75rem;
+    margin: auto;
+}
 .imgs{
     width: auto;
     height: 1.32rem;
@@ -185,9 +189,17 @@ header .top .con input{
     height: auto;
     margin: 0.14rem 0 0.08rem;
 }
+.adimgBox{
+    width: 3.75rem;
+    margin: auto;
+}
 /*轮播图结束*/
 
 /*好货特卖开始*/
+.temaiBox{
+    width: 3.75rem;
+    margin: auto;
+}
 .times{
     width: auto;
     height: 0.3rem;
@@ -283,6 +295,12 @@ header .top .con input{
     font-weight: 600;
     color: rgb(51, 51, 51);
 }
+.finddrandBox{
+    width: 3.75rem;
+    height: auto;
+    margin: auto;
+    overflow: hidden;
+}
 .findleft{
     width: 1.725rem;
     height: 1.56rem;
@@ -369,6 +387,10 @@ header .top .con input{
     width: 100%;
     height: 3.25rem;
 }
+.directBox{
+    width: 3.75rem;
+    margin: auto;
+}
 .directspan{
     white-space: pre-wrap;
     border: 0px solid black;
@@ -431,6 +453,10 @@ header .top .con input{
 /* 官方自营结束 */
 
 /*为你精选开始*/
+.weiniBox{
+    width: 3.75rem;
+    margin: auto;
+}
 .choice{
     width: 3.53rem;
     height: 2.91rem;
